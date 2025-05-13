@@ -95,7 +95,12 @@ const CustomCarousel = () => {
             </div>
             <div className="card padding-global" >
                 <h3 className="h3">De ce <span className="secondary-text">Mum's Rolls</span>?</h3>
-                <p className="small-text">Pentru că fiecare ruladă este făcută cu dragoste, exact ca pentru cei dragi. Fie că ești un mic pofticios sau un adult care caută ceva special, Mum’s Rolls este modul ideal de a te bucura de un desert care sǎ-ți mângâie sufletul și te face să te facǎ sǎ te lingi pe degete.<br></br><br></br>Cu fiecare înghițitură, îți promitem o experiență dulce, unicǎ și plină de momente memorabile – pentru tine și pentru toți cei care iubesc deserturile făcute cu grijă și suflet. </p>
+                <p className="small-text">Pentru că fiecare ruladă este făcută cu dragoste, 
+                exact ca pentru cei dragi. Fie că ești un mic pofticios sau un adult care caută 
+                ceva special, Mum’s Rolls este modul ideal de a te bucura de un desert care sǎ-ți 
+                mângâie sufletul și care te face să te lingi pe degete<br></br><br></br>
+                Cu fiecare înghițitură, îți promitem o experiență dulce, unicǎ și plină de momente memorabile
+                 – pentru tine și pentru toți cei care iubesc deserturile făcute cu atenție și suflet. </p>
             </div>
             <div className="icons-holder-vertical no-gap">
                 <img className="icon icon-small" src={question1} alt="" style={{marginLeft:'-20px'}}></img>

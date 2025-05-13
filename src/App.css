@@ -221,6 +221,7 @@ ul{
   display: flex;
   flex-direction: column;
   align-items: flex-end;
+  margin-top: 1rem;
 }
 .card-image{
   border-radius: 20px;
@@ -420,6 +421,7 @@ a{
   }
   .card-title{
     font-size: 1.6rem;
+    font-weight: bold;
   }
   .prep-image{
     width: 100%;

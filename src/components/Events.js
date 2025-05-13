@@ -9,9 +9,8 @@ function Events() {
             <div className='right-texts'>
                 <h4 >Perfect pentru nunti, petreceri de aniversare si festivaluri.</h4>
                 <p>Personalizarea ice cream rolls pentru evenimente private sau corporate.</p>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla 
-                Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-                Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
+                <p>La noi, fiecare porție de înghețată este făcută cu plăcere și atenție. Rețeta gelato este proaspătă. Nu folosim pre-mixuri sau ingrediente artificiale. Fiecare sortiment este preparat cu ingrediente de calitate pentru a aduce în cupa ta adevărata savoare a gelato-ului italian.<br></br><br></br>
+                În plus, știm că fiecare eveniment este unic, așa că îți oferim posibilitatea de a crea sortimente personalizate, adaptate gusturilor tale și ale invitaților tăi. Fie că este vorba de o petrecere, un eveniment corporate sau o nuntă, noi suntem aici pentru a transforma orice moment într-o experiență dulce și memorabilă.</p>
             </div>
             <img className='events-pic' src={event}alt=''></img>
         </div>

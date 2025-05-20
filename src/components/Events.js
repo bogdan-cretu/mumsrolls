@@ -3,7 +3,7 @@ import event from "../images/pictures/event.jpg"
 
 function Events() {
   return (
-    <div>
+    <div id="events">
         <h1 className='title primary-text'> Evenimente & Catering</h1>
         <div className='text-wrapper'>
             <div className='right-texts'>

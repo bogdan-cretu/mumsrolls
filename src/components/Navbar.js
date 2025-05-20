@@ -14,11 +14,10 @@ const Navbar = () => {
         </a>
         <div className="right-menu">
             <ul className={`nav-links ${isOpen ? "open" : ""}`}>
-                <li><a href="/about">Despre noi</a></li>
-                <li><a href="/about">Meniu</a></li>
-                <li><a href="/about">Procesul de preparare</a></li>
-                <li><a href="/about">Recenzii</a></li>
-                <li><a href="/about">Evenimente si catering</a></li>
+                <li><a href="#despre">Despre noi</a></li>
+                <li><a href="#menu">Meniu</a></li>
+                <li><a href="#preparare">Procesul de preparare</a></li>
+                <li><a href="#events">Evenimente si catering</a></li>
             </ul>
             <div className="burger" onClick={() => setIsOpen(!isOpen)}>
                 <div className={isOpen ? "line line1 open" : "line line1"}></div>

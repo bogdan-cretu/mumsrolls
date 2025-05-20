@@ -79,7 +79,7 @@ const slides1 = [
 
 function Preparation() {
   return (
-    <div className='prep-section primary'>
+    <div className='prep-section primary' id="preparare">
         <img src={waveWhite} alt=''></img>
         <div className='heading'></div>
         <h1 className='text-align-center'>Procesul de preparare</h1>

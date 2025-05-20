@@ -127,7 +127,7 @@ const slides2 = [
 
 function Menu() {
   return (
-    <div className='menu-section'>
+    <div className='menu-section' id="menu">
         <img className='wave' src={wave} alt=""></img>
         <h1 className='title primary-text'>Meniu</h1>
         <Tabs>
